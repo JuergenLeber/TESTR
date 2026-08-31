@@ -1,0 +1,191 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="820" viewBox="0 0 1060 820">
+<rect width="1060" height="820" fill="#ffffff"/>
+<text x="40" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#0f172a" text-anchor="start" font-weight="700">TESTR — wiring</text>
+<text x="40" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#64748b" text-anchor="start" font-weight="400">Arduino Pro Micro (5 V / 16 MHz)  →  4164 / 41256 DRAM</text>
+<text x="40" y="97" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748b" text-anchor="start" font-weight="400">Both parts seen from above. Every connection is a plain 1:1 wire.</text>
+<path d="M 445,203 C 540,203 550,313 645,313" fill="none" stroke="#ea580c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 445,238 C 540,238 550,358 645,358" fill="none" stroke="#ea580c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 445,273 C 540,273 550,268 645,268" fill="none" stroke="#059669" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 445,308 C 540,308 550,403 645,403" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 445,343 C 540,343 550,448 645,448" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 445,413 C 540,413 550,223 645,223" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7 5"/>
+<path d="M 225,413 L 225.0,588.0 Q 225,600 237.0,600.0 L 548.0,600.0 Q 560,600 560.0,588.0 L 560.0,505.0 Q 560,493 572.0,493.0 L 645,493" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 445,378 L 458.0,378.0 Q 470,378 470.0,366.0 L 470.0,152.0 Q 470,140 482.0,140.0 L 998.0,140.0 Q 1010,140 1010.0,152.0 L 1010.0,346.0 Q 1010,358 998.0,358.0 L 825,358" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 225,378 L 207.0,378.0 Q 195,378 195.0,390.0 L 195.0,603.0 Q 195,615 207.0,615.0 L 833.0,615.0 Q 845,615 845.0,603.0 L 845.0,548.0 Q 845,538 835.0,538.0 L 825,538" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 225,343 L 187.0,343.0 Q 175,343 175.0,355.0 L 175.0,618.0 Q 175,630 187.0,630.0 L 853.0,630.0 Q 865,630 865.0,618.0 L 865.0,505.0 Q 865,493 853.0,493.0 L 825,493" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 225,308 L 167.0,308.0 Q 155,308 155.0,320.0 L 155.0,633.0 Q 155,645 167.0,645.0 L 873.0,645.0 Q 885,645 885.0,633.0 L 885.0,460.0 Q 885,448 873.0,448.0 L 825,448" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 225,273 L 147.0,273.0 Q 135,273 135.0,285.0 L 135.0,648.0 Q 135,660 147.0,660.0 L 893.0,660.0 Q 905,660 905.0,648.0 L 905.0,415.0 Q 905,403 893.0,403.0 L 825,403" fill="none" stroke="#2563eb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 225,238 L 127.0,238.0 Q 115,238 115.0,250.0 L 115.0,663.0 Q 115,675 127.0,675.0 L 913.0,675.0 Q 925,675 925.0,663.0 L 925.0,280.0 Q 925,268 913.0,268.0 L 825,268" fill="none" stroke="#ea580c" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 225,203 L 107.0,203.0 Q 95,203 95.0,215.0 L 95.0,678.0 Q 95,690 107.0,690.0 L 933.0,690.0 Q 945,690 945.0,678.0 L 945.0,325.0 Q 945,313 933.0,313.0 L 825,313" fill="none" stroke="#059669" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 445,448 L 467,448" fill="none" stroke="#dc2626" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 467,439 L 485,448 L 467,457 Z" fill="#dc2626"/>
+<text x="491" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#dc2626" text-anchor="start" font-weight="700">+5 V</text>
+<path d="M 445,518 L 467,518" fill="none" stroke="#0f172a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 467,507 L 467,529 M 472,511 L 472,525 M 477,515 L 477,521" stroke="#0f172a" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+<text x="487" y="522" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#0f172a" text-anchor="start" font-weight="700">GND</text>
+<path d="M 645,538 L 623,538" fill="none" stroke="#dc2626" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 623,529 L 605,538 L 623,547 Z" fill="#dc2626"/>
+<text x="599" y="542" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#dc2626" text-anchor="end" font-weight="700">+5 V</text>
+<path d="M 825,223 L 847,223" fill="none" stroke="#0f172a" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 847,212 L 847,234 M 852,216 L 852,230 M 857,220 L 857,226" stroke="#0f172a" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+<text x="867" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#0f172a" text-anchor="start" font-weight="700">GND</text>
+<rect x="240" y="150" width="190" height="420" rx="7" fill="#1e293b"/>
+<rect x="319" y="570" width="32" height="15" rx="3" fill="#94a3b8"/>
+<rect x="324" y="574" width="22" height="8" rx="2" fill="#475569"/>
+<text x="361" y="583" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="start" font-weight="400">USB</text>
+<text x="335" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#0f172a" text-anchor="middle" font-weight="700">PRO MICRO · ATmega32U4</text>
+<rect x="234" y="161" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">9</text>
+<text x="288" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">RED</text>
+<rect x="234" y="196" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="207" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">8</text>
+<text x="288" y="207" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">DOUT</text>
+<rect x="234" y="231" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">7</text>
+<text x="288" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">/CAS</text>
+<rect x="234" y="266" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="277" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">6</text>
+<text x="288" y="277" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">A3</text>
+<rect x="234" y="301" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">5</text>
+<text x="288" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">A4</text>
+<rect x="234" y="336" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="347" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">4</text>
+<text x="288" y="347" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">A5</text>
+<rect x="234" y="371" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">3</text>
+<text x="288" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">A7</text>
+<rect x="234" y="406" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="254" y="417" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">2</text>
+<text x="288" y="417" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="start" font-weight="400">A1</text>
+<rect x="234" y="441" width="12" height="14" rx="2" fill="#64748b"/>
+<text x="254" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94a3b8" text-anchor="start" font-weight="700">GND</text>
+<rect x="234" y="476" width="12" height="14" rx="2" fill="#64748b"/>
+<text x="254" y="487" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94a3b8" text-anchor="start" font-weight="700">GND</text>
+<rect x="234" y="511" width="12" height="14" rx="2" fill="#64748b"/>
+<text x="254" y="522" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94a3b8" text-anchor="start" font-weight="700">RXI</text>
+<rect x="234" y="546" width="12" height="14" rx="2" fill="#64748b"/>
+<text x="254" y="557" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94a3b8" text-anchor="start" font-weight="700">TXO</text>
+<rect x="424" y="161" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">10</text>
+<text x="368" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">GREEN</text>
+<rect x="424" y="196" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="207" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">16</text>
+<text x="368" y="207" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">/WE</text>
+<rect x="424" y="231" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">14</text>
+<text x="368" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">/RAS</text>
+<rect x="424" y="266" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="277" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">15</text>
+<text x="368" y="277" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">DIN</text>
+<rect x="424" y="301" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">18/A0</text>
+<text x="368" y="312" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">A0</text>
+<rect x="424" y="336" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="347" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">19/A1</text>
+<text x="368" y="347" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">A2</text>
+<rect x="424" y="371" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">20/A2</text>
+<text x="368" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">A6</text>
+<rect x="424" y="406" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="417" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">21/A3</text>
+<text x="368" y="417" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">A8</text>
+<rect x="424" y="441" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">VCC</text>
+<text x="368" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">+5V</text>
+<rect x="424" y="476" width="12" height="14" rx="2" fill="#64748b"/>
+<text x="416" y="487" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94a3b8" text-anchor="end" font-weight="700">RST</text>
+<rect x="424" y="511" width="12" height="14" rx="2" fill="#fbbf24"/>
+<text x="416" y="522" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">GND</text>
+<text x="368" y="522" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#94a3b8" text-anchor="end" font-weight="400">GND</text>
+<rect x="424" y="546" width="12" height="14" rx="2" fill="#64748b"/>
+<text x="416" y="557" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#94a3b8" text-anchor="end" font-weight="700">RAW</text>
+<rect x="660" y="200" width="150" height="360" rx="7" fill="#334155"/>
+<path d="M 722,200 a 13,13 0 0 0 26,0" fill="#ffffff"/>
+<text x="735" y="188" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#0f172a" text-anchor="middle" font-weight="700">4164 / 41256 DRAM · DIP-16</text>
+<rect x="652" y="217" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">1</text>
+<text x="696" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">A8</text>
+<rect x="652" y="262" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">2</text>
+<text x="696" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">DIN</text>
+<rect x="652" y="307" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="317" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">3</text>
+<text x="696" y="317" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">/WE</text>
+<rect x="652" y="352" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">4</text>
+<text x="696" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">/RAS</text>
+<rect x="652" y="397" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="407" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">5</text>
+<text x="696" y="407" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">A0</text>
+<rect x="652" y="442" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">6</text>
+<text x="696" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">A2</text>
+<rect x="652" y="487" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="497" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">7</text>
+<text x="696" y="497" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">A1</text>
+<rect x="652" y="532" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="673" y="542" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="start" font-weight="400">8</text>
+<text x="696" y="542" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="start" font-weight="700">VCC</text>
+<rect x="802" y="217" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">16</text>
+<text x="774" y="227" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">VSS</text>
+<rect x="802" y="262" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">15</text>
+<text x="774" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">/CAS</text>
+<rect x="802" y="307" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="317" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">14</text>
+<text x="774" y="317" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">DOUT</text>
+<rect x="802" y="352" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">13</text>
+<text x="774" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">A6</text>
+<rect x="802" y="397" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="407" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">12</text>
+<text x="774" y="407" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">A3</text>
+<rect x="802" y="442" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">11</text>
+<text x="774" y="452" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">A4</text>
+<rect x="802" y="487" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="497" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">10</text>
+<text x="774" y="497" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">A5</text>
+<rect x="802" y="532" width="16" height="12" rx="2" fill="#cbd5e1"/>
+<text x="797" y="542" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#94a3b8" text-anchor="end" font-weight="400">9</text>
+<text x="774" y="542" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f1f5f9" text-anchor="end" font-weight="700">A7</text>
+<rect x="470" y="25" width="560" height="100" rx="9" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="488" y="51" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#0f172a" text-anchor="start" font-weight="700">STATUS LEDs — anode to +5 V, so a LOW pin lights the LED</text>
+<path d="M 526,87 L 542,87" fill="none" stroke="#dc2626" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="522" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#dc2626" text-anchor="end" font-weight="700">+5 V</text>
+<rect x="542" y="79" width="34" height="16" rx="2" fill="#fff" stroke="#0f172a" stroke-width="1.6"/>
+<text x="559" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#64748b" text-anchor="middle" font-weight="400">330 Ω</text>
+<path d="M 576,87 L 590,87" stroke="#0f172a" stroke-width="2.2"/>
+<path d="M 590,78 L 590,96 L 606,87 Z" fill="#ef4444"/>
+<path d="M 606,77 L 606,97" stroke="#0f172a" stroke-width="2.6"/>
+<path d="M 606,87 L 630,87" stroke="#ef4444" stroke-width="2.2"/>
+<circle cx="630" cy="87" r="3.6" fill="#ef4444"/>
+<text x="640" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#0f172a" text-anchor="start" font-weight="700">D9</text>
+<text x="676" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#64748b" text-anchor="start" font-weight="400">red</text>
+<path d="M 788,87 L 804,87" fill="none" stroke="#dc2626" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="784" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" fill="#dc2626" text-anchor="end" font-weight="700">+5 V</text>
+<rect x="804" y="79" width="34" height="16" rx="2" fill="#fff" stroke="#0f172a" stroke-width="1.6"/>
+<text x="821" y="74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#64748b" text-anchor="middle" font-weight="400">330 Ω</text>
+<path d="M 838,87 L 852,87" stroke="#0f172a" stroke-width="2.2"/>
+<path d="M 852,78 L 852,96 L 868,87 Z" fill="#22c55e"/>
+<path d="M 868,77 L 868,97" stroke="#0f172a" stroke-width="2.6"/>
+<path d="M 868,87 L 892,87" stroke="#22c55e" stroke-width="2.2"/>
+<circle cx="892" cy="87" r="3.6" fill="#22c55e"/>
+<text x="902" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#0f172a" text-anchor="start" font-weight="700">D10</text>
+<text x="938" y="91" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#64748b" text-anchor="start" font-weight="400">green</text>
+<path d="M 40,726 L 68,726" stroke="#2563eb" stroke-width="3.2" stroke-linecap="round"/>
+<text x="76" y="730" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748b" text-anchor="start" font-weight="400">Address A0–A8</text>
+<path d="M 189.2,726 L 217.2,726" stroke="#059669" stroke-width="3.2" stroke-linecap="round"/>
+<text x="225.2" y="730" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748b" text-anchor="start" font-weight="400">Data in / out</text>
+<path d="M 338.4,726 L 366.4,726" stroke="#ea580c" stroke-width="3.2" stroke-linecap="round"/>
+<text x="374.4" y="730" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748b" text-anchor="start" font-weight="400">/RAS  /CAS  /WE</text>
+<path d="M 500.4,726 L 528.4,726" stroke="#dc2626" stroke-width="3.2" stroke-linecap="round"/>
+<text x="536.4" y="730" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748b" text-anchor="start" font-weight="400">+5 V</text>
+<path d="M 592.0,726 L 620.0,726" stroke="#0f172a" stroke-width="3.2" stroke-linecap="round"/>
+<text x="628.0" y="730" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#64748b" text-anchor="start" font-weight="400">GND</text>
+<text x="40" y="758" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start" font-weight="400">Dashed wire = DRAM pin 1 (A8): needed only for the 41256; on a 4164 that pin is not connected and may be left open.</text>
+<text x="40" y="778" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start" font-weight="400">The DRAM is powered from the Pro Micro's VCC pin, so use a 5 V / 16 MHz board — a 3.3 V Pro Micro will not drive a 4164.</text>
+<text x="40" y="798" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#64748b" text-anchor="start" font-weight="400">"18/A0" means Arduino pin 18, silkscreened A0 on the Pro Micro. Grey pads are unused.</text>
+</svg>
